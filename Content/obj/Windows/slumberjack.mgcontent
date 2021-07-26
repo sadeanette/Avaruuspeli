@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/MyTemp/sahlatik/kurssit/ohj1/ht/Avaruuspeli/Avaruuspeli/Content/slumberjack.mp3</SourceFile>
+  <SourceTime>2019-12-03T20:15:20.7758229+02:00</SourceTime>
+  <DestFile>C:/MyTemp/sahlatik/kurssit/ohj1/ht/Avaruuspeli/Avaruuspeli/Content/bin/Windows/slumberjack.xnb</DestFile>
+  <DestTime>2020-01-19T17:41:06.8974383+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T18:35:54+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T18:35:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/MyTemp/sahlatik/kurssit/ohj1/ht/Avaruuspeli/Avaruuspeli/Content/bin/Windows/slumberjack.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

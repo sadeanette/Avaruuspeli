@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/alien.png</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/alkunaytto.png</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/astronautti.png</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/astronauttiVasen.png</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/auts.wav</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/happipullo.png</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/happipullonkerays.wav</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/kuu.png</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/meteoriitti.png</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/musiikki.png</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/musiikkipois.png</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/planeetta1.png</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/planeetta2.png</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/slumberjack.mp3</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/tahdenkerays.wav</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/tahti.png</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/ufo.png</File>
+    <File>C:/MyTemp/sahlatik/Avaruuspeli/Avaruuspeli/Content/valikkoaani.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
